@@ -11,6 +11,7 @@
 [![Download](https://img.shields.io/badge/Download-Windows%20%7C%20Android-F472B6?style=for-the-badge&logo=windows&logoColor=white)](https://pyontan.com/download)
 [![Website](https://img.shields.io/badge/Website-pyontan.com-7C9EFF?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://pyontan.com)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pz3gCFPejV)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/pyontan/61596944394063/)
 
 **[Download](https://pyontan.com/download)** · **[What it does](https://pyontan.com/about)** · **[Pricing](https://pyontan.com/pricing)** · **[Guides](https://pyontan.com/guides)** · **[Changelog](https://pyontan.com/blog)** · **[Roadmap](https://pyontan.com/roadmap)**
 
@@ -95,6 +96,8 @@ Your lookups, saved words and Live Audio history stay on your PC unless you turn
 - **[Open an issue](../../issues)** here, if you have a GitHub account
 - **[Send feedback](https://pyontan.com/feedback)** from the website or the app
 - **[Discord](https://discord.gg/Pz3gCFPejV)** for questions, ideas and a chat
+
+The official pages are the ones linked here and at the bottom of [pyontan.com](https://pyontan.com): the [Facebook page](https://www.facebook.com/people/pyontan/61596944394063/) and the Discord.
 
 Say what you did, what happened, and the app's version (tray menu > Help, at the top). See **[SUPPORT.md](SUPPORT.md)** for more.
 
